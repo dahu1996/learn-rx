@@ -1,0 +1,9 @@
+# editer or ide
+.vscode
+.idea
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# node
+node_modules/*
